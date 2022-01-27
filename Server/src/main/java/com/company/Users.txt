@@ -1,0 +1,12 @@
+jopa jopa 0 0 0 0 0 0
+jopa22 jopa22 0 0 0 0 0 0
+jopa31 jopa31 0 0 0 0 1 1
+jopa32 jopa32 11 10 1 1 7 12
+jopa33 jopa33 10 11 1 1 13 7
+jopa34 jopa34 0 1 0 0 1 6
+jopa35 jopa35 1 0 0 0 5 1
+jopa36 jopa36 0 1 0 0 1 1
+jopa37 jopa37 1 0 0 0 1 1
+jopa38 jopa38 0 0 0 0 1 1
+jopa39 jopa39 0 0 0 0 1 1
+jopa40 jopa40 0 0 0 0 1 1
